@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PuntosaludApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(PuntosaludApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(PuntosaludApplication.class, args);
+    }
 
 }
